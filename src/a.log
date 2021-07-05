@@ -1,0 +1,203 @@
+2021/07/05 10:03:55 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 0 
+2021/07/05 10:03:55 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 0 
+2021/07/05 10:03:55 D:/Go Code/sushi/src/main.go:97: customer 2 has eated a sushi,left:0
+2021/07/05 10:03:55 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:0
+2021/07/05 10:03:55 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:0
+2021/07/05 10:03:55 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 0 
+2021/07/05 10:03:56 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 0 
+2021/07/05 10:03:56 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:0
+2021/07/05 10:03:56 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:0
+2021/07/05 10:03:56 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 0 
+2021/07/05 10:03:57 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 1 
+2021/07/05 10:03:57 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 2 
+2021/07/05 10:03:57 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:1
+2021/07/05 10:03:57 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:0
+2021/07/05 10:03:57 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 1 
+2021/07/05 10:03:58 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 2 
+2021/07/05 10:03:58 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:1
+2021/07/05 10:03:58 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 2 
+2021/07/05 10:03:58 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:1
+2021/07/05 10:03:58 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 2 
+2021/07/05 10:03:58 D:/Go Code/sushi/src/main.go:97: customer 2 has eated a sushi,left:1
+2021/07/05 10:03:58 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 2 
+2021/07/05 10:03:59 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:1
+2021/07/05 10:03:59 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 2 
+2021/07/05 10:03:59 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:1
+2021/07/05 10:03:59 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:0
+2021/07/05 10:03:59 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 1 
+2021/07/05 10:03:59 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 2 
+2021/07/05 10:04:00 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 3 
+2021/07/05 10:04:00 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:2
+2021/07/05 10:04:00 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:1
+2021/07/05 10:04:00 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 2 
+2021/07/05 10:04:00 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 3 
+2021/07/05 10:04:01 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 4 
+2021/07/05 10:04:01 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:3
+2021/07/05 10:04:01 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:2
+2021/07/05 10:04:01 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 3 
+2021/07/05 10:04:01 D:/Go Code/sushi/src/main.go:97: customer 2 has eated a sushi,left:2
+2021/07/05 10:04:01 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 3 
+2021/07/05 10:04:02 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:2
+2021/07/05 10:04:02 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 3 
+2021/07/05 10:04:02 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:2
+2021/07/05 10:04:02 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 3 
+2021/07/05 10:04:02 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:2
+2021/07/05 10:04:02 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 3 
+2021/07/05 10:04:03 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 4 
+2021/07/05 10:04:03 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:3
+2021/07/05 10:04:03 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 4 
+2021/07/05 10:04:03 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 5 
+2021/07/05 10:04:03 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:4
+2021/07/05 10:04:03 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:3
+2021/07/05 10:04:03 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 4 
+2021/07/05 10:04:04 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:3
+2021/07/05 10:04:04 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 4 
+2021/07/05 10:04:04 D:/Go Code/sushi/src/main.go:97: customer 2 has eated a sushi,left:2
+2021/07/05 10:04:04 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:2
+2021/07/05 10:04:04 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 3 
+2021/07/05 10:04:05 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 4 
+2021/07/05 10:04:05 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 5 
+2021/07/05 10:04:05 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:4
+2021/07/05 10:04:05 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:3
+2021/07/05 10:04:05 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:2
+2021/07/05 10:04:05 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 3 
+2021/07/05 10:04:06 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 4 
+2021/07/05 10:04:06 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 5 
+2021/07/05 10:04:06 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 6 
+2021/07/05 10:04:06 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:5
+2021/07/05 10:04:07 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 6 
+2021/07/05 10:04:07 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:5
+2021/07/05 10:04:07 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:4
+2021/07/05 10:04:07 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:3
+2021/07/05 10:04:07 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 4 
+2021/07/05 10:04:07 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 5 
+2021/07/05 10:04:07 D:/Go Code/sushi/src/main.go:97: customer 2 has eated a sushi,left:4
+2021/07/05 10:04:07 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 5 
+2021/07/05 10:04:08 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 6 
+2021/07/05 10:04:08 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:5
+2021/07/05 10:04:08 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 6 
+2021/07/05 10:04:08 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:5
+2021/07/05 10:04:08 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:4
+2021/07/05 10:04:08 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:3
+2021/07/05 10:04:08 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 4 
+2021/07/05 10:04:09 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 5 
+2021/07/05 10:04:09 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 6 
+2021/07/05 10:04:10 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 7 
+2021/07/05 10:04:10 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 8 
+2021/07/05 10:04:10 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:7
+2021/07/05 10:04:10 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 8 
+2021/07/05 10:04:10 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:7
+2021/07/05 10:04:10 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:6
+2021/07/05 10:04:10 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:5
+2021/07/05 10:04:10 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 6 
+2021/07/05 10:04:10 D:/Go Code/sushi/src/main.go:105: 有位顾客吃撑了
+2021/07/05 10:04:11 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 7 
+2021/07/05 10:04:11 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 8 
+2021/07/05 10:04:11 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 9 
+2021/07/05 10:04:11 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:8
+2021/07/05 10:04:12 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:7
+2021/07/05 10:04:12 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 8 
+2021/07/05 10:04:12 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 8 
+2021/07/05 10:04:12 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:8
+2021/07/05 10:04:12 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:7
+2021/07/05 10:04:12 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 8 
+2021/07/05 10:04:12 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 9 
+2021/07/05 10:04:13 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 10 
+2021/07/05 10:04:13 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:9
+2021/07/05 10:04:13 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:8
+2021/07/05 10:04:13 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 9 
+2021/07/05 10:04:14 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:8
+2021/07/05 10:04:14 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:7
+2021/07/05 10:04:14 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 8 
+2021/07/05 10:04:14 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 9 
+2021/07/05 10:04:14 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 10 
+2021/07/05 10:04:14 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:9
+2021/07/05 10:04:15 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 10 
+2021/07/05 10:04:15 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 11 
+2021/07/05 10:04:15 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:10
+2021/07/05 10:04:15 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 11 
+2021/07/05 10:04:15 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 11 
+2021/07/05 10:04:15 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:11
+2021/07/05 10:04:15 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:10
+2021/07/05 10:04:16 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 11 
+2021/07/05 10:04:16 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:10
+2021/07/05 10:04:16 D:/Go Code/sushi/src/main.go:75: cook 1 makes a new sushi,	 total is 11 
+2021/07/05 10:04:16 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:10
+2021/07/05 10:04:16 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 11 
+2021/07/05 10:04:17 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 12 
+2021/07/05 10:04:17 D:/Go Code/sushi/src/main.go:80: 有个厨子不干了
+2021/07/05 10:04:17 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:11
+2021/07/05 10:04:17 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:10
+2021/07/05 10:04:17 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:9
+2021/07/05 10:04:18 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 10 
+2021/07/05 10:04:18 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 11 
+2021/07/05 10:04:18 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:10
+2021/07/05 10:04:19 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 11 
+2021/07/05 10:04:19 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:10
+2021/07/05 10:04:19 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:9
+2021/07/05 10:04:19 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 10 
+2021/07/05 10:04:19 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:9
+2021/07/05 10:04:20 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:8
+2021/07/05 10:04:20 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 9 
+2021/07/05 10:04:20 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 10 
+2021/07/05 10:04:20 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:9
+2021/07/05 10:04:20 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:8
+2021/07/05 10:04:21 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 9 
+2021/07/05 10:04:21 D:/Go Code/sushi/src/main.go:97: customer 1 has eated a sushi,left:8
+2021/07/05 10:04:21 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:7
+2021/07/05 10:04:22 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 8 
+2021/07/05 10:04:22 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 9 
+2021/07/05 10:04:22 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:8
+2021/07/05 10:04:22 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:7
+2021/07/05 10:04:23 D:/Go Code/sushi/src/main.go:105: 有位顾客吃撑了
+2021/07/05 10:04:23 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 8 
+2021/07/05 10:04:23 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:7
+2021/07/05 10:04:23 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 8 
+2021/07/05 10:04:23 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:7
+2021/07/05 10:04:24 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 8 
+2021/07/05 10:04:24 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:7
+2021/07/05 10:04:24 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 8 
+2021/07/05 10:04:24 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:7
+2021/07/05 10:04:25 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 8 
+2021/07/05 10:04:25 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:7
+2021/07/05 10:04:25 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:6
+2021/07/05 10:04:26 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 7 
+2021/07/05 10:04:26 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 8 
+2021/07/05 10:04:26 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:7
+2021/07/05 10:04:26 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:6
+2021/07/05 10:04:27 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 7 
+2021/07/05 10:04:27 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 8 
+2021/07/05 10:04:27 D:/Go Code/sushi/src/main.go:97: customer 4 has eated a sushi,left:7
+2021/07/05 10:04:28 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:6
+2021/07/05 10:04:28 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 7 
+2021/07/05 10:04:28 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:6
+2021/07/05 10:04:28 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 7 
+2021/07/05 10:04:29 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 8 
+2021/07/05 10:04:29 D:/Go Code/sushi/src/main.go:105: 有位顾客吃撑了
+2021/07/05 10:04:29 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:7
+2021/07/05 10:04:29 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:6
+2021/07/05 10:04:29 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 7 
+2021/07/05 10:04:30 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 8 
+2021/07/05 10:04:31 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 9 
+2021/07/05 10:04:31 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 10 
+2021/07/05 10:04:31 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:9
+2021/07/05 10:04:31 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:8
+2021/07/05 10:04:32 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 9 
+2021/07/05 10:04:32 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 10 
+2021/07/05 10:04:32 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:9
+2021/07/05 10:04:32 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:8
+2021/07/05 10:04:33 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 9 
+2021/07/05 10:04:33 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 10 
+2021/07/05 10:04:34 D:/Go Code/sushi/src/main.go:75: cook 2 makes a new sushi,	 total is 11 
+2021/07/05 10:04:34 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:10
+2021/07/05 10:04:34 D:/Go Code/sushi/src/main.go:97: customer 3 has eated a sushi,left:9
+2021/07/05 10:04:35 D:/Go Code/sushi/src/main.go:75: cook 3 makes a new sushi,	 total is 10 
+2021/07/05 10:04:35 D:/Go Code/sushi/src/main.go:80: 有个厨子不干了
+2021/07/05 10:04:35 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:9
+2021/07/05 10:04:36 D:/Go Code/sushi/src/main.go:105: 有位顾客吃撑了
+2021/07/05 10:04:36 D:/Go Code/sushi/src/main.go:80: 有个厨子不干了
+2021/07/05 10:04:37 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:8
+2021/07/05 10:04:38 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:7
+2021/07/05 10:04:40 D:/Go Code/sushi/src/main.go:97: customer 5 has eated a sushi,left:6
+2021/07/05 10:04:41 D:/Go Code/sushi/src/main.go:105: 有位顾客吃撑了
+2021/07/05 10:04:41 D:/Go Code/sushi/src/main.go:64: 打烊
